@@ -12,7 +12,7 @@ function Home() {
         <div 
           className='headerContainer'>
           <h1>Pedro Pizzería</h1>
-          <p>Deliciosas Pizzas que Crean Sonrisas: Tu Lugar de Sabor Inigualable</p> 
+          <p>Deliciosas Pizzas que Crean Sonrisas: <br/>Tu Lugar de Sabor Inigualable</p> 
           <Link to={"/menu"}>
             <button>Ordenar</button>
           </Link>
